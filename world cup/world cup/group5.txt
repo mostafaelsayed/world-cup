@@ -1,0 +1,46 @@
+france 3 2 1 0 8 2 6 7
+switzerland 3 2 0 1 7 6 1 6
+ecuador 3 1 1 1 3 3 0 4
+honduras 3 0 0 3 1 8 -7 0
+switzerland:ecuador
+goals scored:
+switzerland:2
+ecuador:1
+switzerland:Admir Mehmedi(1)-Haris Seferovic(1)
+ecuador:Enner Valencia(1)
+Man of the match:Xherdan Shaqiri
+france:honduras
+goals scored:
+france:3
+honduras:0
+france:Karim Benzema(2)-Noel Valladares(OG)
+honduras:
+Man of the match:Karim Benzema
+switzerland:france
+goals scored:
+switzerland:2
+france:5
+switzerland:Blerim Dzemaili(1)-Granit Xhaka(1)
+france:Olivier Giroud(1)-Blaise Matuidi(1)-Mathieu Valbuena(1)-Karim Benzema(1)-Moussa Sissoko(1)
+Man of the match:Karim Benzema
+honduras:ecuador
+goals scored:
+honduras:1
+ecuador:2
+honduras:Carlo Costly(1)
+ecuador:Enner Valencia(2)
+Man of the match:Enner Valencia
+honduras:switzerland
+goals scored:
+honduras:0
+switzerland:3
+honduras:none
+switzerland:Xherdan Shaqiri(3)
+Man of the match:Xherdan Shaqiri
+ecuador:france
+goals scored:
+england:0
+italy:0
+england:none
+italy:none
+Man of the match:Alexander Dominguez

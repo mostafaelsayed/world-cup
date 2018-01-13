@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="world.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="group.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="team.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="group1.txt" />
+    <None Include="group2.txt" />
+    <None Include="group3.txt" />
+    <None Include="group4.txt" />
+    <None Include="group5.txt" />
+    <None Include="group6.txt" />
+    <None Include="group7.txt" />
+    <None Include="group8.txt" />
+    <None Include="algeria.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="america.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="argentina.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="australia.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="belgium.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="bosnia.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="brazil.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cameron.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="chile.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="colombia.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="costa rica.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="cote de voir.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="croatia.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="ecuador.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="england.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="france.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="germany.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="ghana.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="greece.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="honduras.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="iran.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="italy.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="japan.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="mexico.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="netherlands.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="nigeria.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="portugal.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="russia.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="south korea.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="spain.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="switzerland.txt">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="uruguay.txt">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="group.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="tan.cpp" />
+    <ClCompile Include="team.cpp" />
+    <ClCompile Include="world.cpp" />
+  </ItemGroup>
+</Project>

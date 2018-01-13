@@ -1,0 +1,46 @@
+costa-rica 3 2 1 0 4 1 3 7
+uruguay 3 2 0 1 4 4 0 6
+italy 3 1 0 2 2 3 -1 3
+england 3 0 1 2 2 4 -2 1
+uruguay:england
+goals scored:
+uruguay:2
+england:1
+uruguay:Luis Suarez(2)
+england:Wayne Rooney(1)
+Man of the match:Luis Suarez
+italy:costa-rica
+goals scored:
+italy:0
+costa-rica:1
+italy:none
+costa-rica:Bryan Ruiz(1)
+Man of the match:Bryan Ruiz
+italy:uruguay
+goals scored:
+italy:0
+uruguay:1
+italy:none
+uruguay:Diego Godin(1)
+Man of the match:Gianluigi Buffon
+costa-rica:england
+goals scored:
+costa-rica:0
+england:0
+costa-rica:none
+england:none
+Man of the match:Keylor Navas
+uruguay:costa-rica
+goals scored:
+uruguay:1
+costa-rica:3
+uruguay:Edinson Cavani(1)
+costa-rica:Joel Campbell(1)-oscar Duarte(1)-Marco Urena(1)
+Man of the match:Campbell
+england:italy
+goals scored:
+england:1
+italy:2
+england:Daniel Sturridge(1)
+italy:Claudio Marchisio(1)-Mario Balotelli(1)
+Man of the match:Mario Balotelli

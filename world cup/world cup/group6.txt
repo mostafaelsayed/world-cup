@@ -1,0 +1,46 @@
+argentina 3 3 0 0 6 3 3 9
+nigeria 3 1 1 1 3 3 0 4
+bosnia 3 1 0 2 4 4 0 3
+iran 3 0 1 2 1 4 -3 1
+argentina:bosnia
+goals scored:
+argentina:2
+bosnia:1
+argentina:Lionel Messi(1)-Sead Kolasinac(OG)
+bosnia:Vedad Ibisevic(1)
+Man of the match:Lionel Messi
+nigeria:iran
+goals scored:
+nigeria:0
+iran:0
+nigeria:none
+iran:none
+Man of the match:John Obi Mikel
+argentina:iran
+goals scored:
+argentina:1
+iran:0
+argentina:Lionel Messi
+iran:none
+Man of the match:Lionel Messi
+nigeria:bosnia
+goals scored:
+nigeria:1
+bosnia:0
+nigeria:Peter Odemwingie(1)
+bosnia:none
+Man of the match:Peter Odemwingie
+nigeria:argentina
+goals scored:
+nigeria:2
+argentina:3
+nigeria:Ahmed Musa(2)
+argentina:Lionel Messi(2)-Marcos Rojo(1)
+Man of the match:Lionel Messi
+bosnia:iran
+goals scored:
+iran:1
+bosnia:3
+bosnia:Edin Dzeko(1)-Miralem Pjanic(1)-Avdija Vrsajevic(1)
+iran:LReza Haghighi(1)
+Man of the match:Edin Dzeko

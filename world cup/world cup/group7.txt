@@ -1,0 +1,46 @@
+germany 3 2 1 0 7 2 5 7
+america 3 1 1 1 4 4 0 4
+portugal 3 1 1 1 4 7 -3 4
+ghana 3 0 1 2 4 6 -2 1
+germany:portugal
+goals scored:
+germany:4
+portugal:0
+germany:Thomas Muller(3)-Mats Hummels(1)
+portugal:none
+Man of the match:Thomas Muller
+ghana:america
+goals scored:
+ghana:1
+america:2
+ghana:Andre Ayew(1)
+america:Clint Dempsey(1)-John Brooks(1)
+Man of the match:Clint Dempsey
+germany:ghana
+goals scored:
+germany:2
+ghana:2
+germany:Miroslav Klose(1)-Mario Gotze(1)
+ghana:Andre Ayew(1)-Asamoah Gyan(1)
+Man of the match:Mario Gotze
+america:portugal
+goals scored:
+america:2
+portugal:2
+america:Jermaine Jones(1)-Clint Dempsey(1)
+portugal:Nani(1)-Silvestre Varela(1)
+Man of the match:Tim Howard
+america:germany
+goals scored:
+america:0
+germany:1
+america:none
+germany:Thomas Muller(1)
+Man of the match:Thomas Muller
+portugal:ghana
+goals scored:
+portugal:2
+ghana:1
+portugal:John Boye(OG)-Cristiano Ronaldo(1)
+ghana:Andre Ayew(1)
+Man of the match:Cristiano Ronaldo

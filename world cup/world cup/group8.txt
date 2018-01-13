@@ -1,0 +1,46 @@
+belgium 3 3 0 0 4 1 3 9
+algeria 3 1 1 1 6 5 1 4
+russia 3 0 2 1 2 3 -1 2
+south-korea 3 0 1 2 3 6 -3 1
+belgium:algeria
+goals scored:
+belgium:2
+algeria:1
+belgium:Marouane Fellaini(1)-Dries Mertens(1)
+algeria:Sofiane Feghouli(1)
+Man of the match:Kevin De Bruyne
+russia:south-korea
+goals scored:
+russia:1
+south-korea:1
+russia:Aleksandr Kerzhakov(1)
+south-korea:Lee Keun-ho(1)
+Man of the match:Son Heung-min
+belgium:russia
+goals scored:
+belgium:1
+russia:0
+belgium:Divock Origi
+russia:none
+Man of the match:Eden Hazard
+south-korea:algeria
+goals scored:
+south-korea:2
+algeria:4
+south-korea:Son Heung-min(1)-Koo Ja-cheol(1)
+algeria:Islam Slimani(1)-Rafik Halliche(1)-Abdelmoumene Djabou(1)-Yacine Brahimi(1)
+Man of the match:Islam Slimani
+south-korea:belgium
+goals scored:
+south-korea:0
+belgium:1
+south-korea:none
+belgium:Jan Vertonghen(1)
+Man of the match:Jan Vertonghen
+algeria:russia
+goals scored:
+algeria:1
+russia:1
+algeria:Islam Slimani(1)
+russia:Aleksandr Kokorin(1)
+Man of the match:Islam Slimani

@@ -1,0 +1,46 @@
+brazil 3 2 1 0 7 2 5 7
+mexico 3 2 1 0 4 1 3 7
+croatia 3 1 0 2 6 6 0 3
+cameron 3 0 0 3 1 9 -8 0
+brazil:croatia
+goals scored:
+brazil:3
+croatia:1
+brazil:Neymar(2)-Oscar(1)
+croatia:Marcelo Brozovic(1)
+Man of the match:Neymar
+mexico:cameron
+goals scored:
+mexico:1
+cameron:0
+mexico:Oribe Peralta(1)
+cameron:none
+Man of the match:Giovani dos Santos
+brazil:mexico
+goals scored:
+brazil:0
+mexico:0
+brazil:none
+mexico:none
+Man of the match:Guillermo Ochoa
+croatia:cameron
+goals scored:
+croatia:4
+cameron:0
+croatia:Mario Mandzukic(2)-Ivan Perisic(1)-Ivica Olic(1)
+cameron:none
+Man of the match:Mario Mandzukic
+brazil:cameron
+goals scored:
+brazil:4
+cameron:1
+brazil:Neymar(2)-fred(1)-Fernandinho(1)
+cameron:Joel Matip
+Man of the match:Neymar
+mexico:croatia
+goals scored:
+croatia:1
+mexico:3
+croatia:Ivan Perisic(1)
+mexico:Rafael Marquez(1)-Andres Guardado(1)-Javier Hernandez(1)
+Man of the match:Rafael Marquez

@@ -1,0 +1,46 @@
+netherlands 3 3 0 0 10 3 7 9
+chile 3 2 0 1 5 3 2 6
+spain 3 1 0 2 4 7 -3 3
+australia 3 0 0 3 3 9 -6 0
+netherlands:spain
+goals scored:
+netherlands:5
+spain:1
+netherlands:Robin van Persie(2)-Arjen Robben(2)-Stefan de Vrij(1)
+spain:Xabi Alonso(1)
+Man of the match:Robin van Persie
+chile:australia
+goals scored:
+chile:3
+australia:1
+chile:Alexis Sanchez(1)-Jorge Valdivia(1)-Jean Beausejour(1)
+australia:Tim Cahill(1)
+Man of the match:Alexis Sanchez
+netherlands:australia
+goals scored:
+netherlands:3
+australia:2
+netherlands:Robin van Persie(1)-Arjen Robben(1)-Memphis Depay(1)
+australia:Tim Cahill(1)-Mile Jedinak(1)
+Man of the match:Arjen Robben
+spain:chile
+goals scored:
+spain:0
+chile:2
+spain:none
+chile:Eduardo Vargas(1)-Charles Aranguiz(1)
+Man of the match:Eduardo Vargas
+australia:spain
+goals scored:
+australia:0
+spain:3
+australia:none
+spain:David Villa(1)-Fernando Torres(1)-Juan Mata(1)
+Man of the match:David Villa
+netherlands:chile
+goals scored:
+netherlands:2
+chile:0
+netherlands:Leroy Fer(1)-Memphis Depay(1)
+chile:none
+Man of the match:Arjen Robben
